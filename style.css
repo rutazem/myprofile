@@ -1,0 +1,61 @@
+
+
+	
+
+	body {
+		font-family: 'IBM Plex Mono', monospace;}
+
+		h2 { color: grey;}
+body {text-align: center;}
+
+	a { text-decoration: none;
+		color: #C0C0C0;}
+
+	
+
+	h2 {font-weight: lighter;}
+
+	body {background-color: #F3EBE6}
+
+div {text-align: center;
+    background-color: white;
+    padding: 50px;
+    }
+
+.btn-blue {
+
+	background-color: ivory;
+	color: green;
+	padding: 20px 40px;
+
+	
+
+}
+
+.list-inline {
+	padding-left: 0;
+	list-style: none;
+}
+
+.list-inline li {
+	display: inline;
+	font-size: 50px;
+}
+
+.container {
+	width: 800px;
+	margin: 0 auto;
+text-align: center;}
+
+@media (max-width: 800px) {
+	.container {
+		width: 650px;
+	}
+}
+
+@media (max-width: 650px) {
+	.container {
+		width: 400px;
+	}
+}
+
